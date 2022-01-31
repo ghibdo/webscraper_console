@@ -4,3 +4,4 @@ and the place that into a data frame. This data frame is then used by R to creat
 
 Install the tidyr and ggplot packages to R
 
+See Rplot01.png for expected results
