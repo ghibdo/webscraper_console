@@ -11,7 +11,7 @@ import("requests")
 py_run_file("main.py")
 
 console_sales_NA<-py$df
-
+library(tidyr)
 library(ggplot2)
 
 p<-console_sales_NA %>%
